@@ -28,7 +28,7 @@ public class Conexion {
                     pass = "";//epysa2014 cuando me conecto a mi local no le pongo pass okaz////////
                     
                     
-                    /*guardando**-sssssssssssssssssssss***/
+                    /*se guardo los datos*/
                     
                     
         try {
