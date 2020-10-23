@@ -25,7 +25,11 @@ public class Conexion {
         }
         jdbcUrl = "jdbc:sqlserver://Sistemas2:1433; databasename = bd_epysa_peru;integratedSecurity=true;";                    
                     user = "admecsperu";
-                    pass = "";//epysa2014 cuando me conecto a mi local no le pongo pass okaz
+                    pass = "";//epysa2014 cuando me conecto a mi local no le pongo pass okaz////////
+                    
+                    
+                    /*guardando*/
+                    
                     
         try {
            cone = DriverManager.getConnection(jdbcUrl); 
